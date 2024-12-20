@@ -1,0 +1,25 @@
+{
+  "name": "OlonConfig",
+  "version": "1.0.4",
+  "description": "Loading and saving config struct",
+  "keywords": "system",
+  "authors": {
+    "name": "Dimitris Paterakis",
+    "url": "https://github.com/olonsoft"
+  },
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": [
+    "espressif8266",
+    "espressif32"
+  ],
+  "headers": "OlonConfig.h",
+  "dependencies": [
+    {
+      "owner": "vshymanskyy",
+      "name": "Preferences",
+      "version": "2.1.0",
+      "platforms": ["espressif8266"]
+    }
+  ]
+}
