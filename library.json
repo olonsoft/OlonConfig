@@ -1,6 +1,6 @@
 {
   "name": "OlonConfig",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Loading and saving config struct",
   "keywords": "system",
   "authors": {

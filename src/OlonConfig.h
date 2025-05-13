@@ -9,7 +9,7 @@
   #include <Arduino.h>
   #include <Preferences.h>
 
-  #define OLON_CONFIG_VERSION "1.0.3"
+  #define OLON_CONFIG_VERSION "1.0.5"
 
 namespace Olon {
 template <class T>
